@@ -33,16 +33,16 @@ As respostas a serem respondidas com os resultados dos modelos são:
 ## 💻 Soluções
 
 - Grupo 1
-  - Link do repositório: 
+  - Link do repositório: https://github.com/2023M6T4-Inteli/Projeto1
   
 - Grupo 2
-  - Link do repositório: 
+  - Link do repositório: https://github.com/2023M6T4-Inteli/Projeto2
   
 - Grupo 3
-  - Link do repositório: 
+  - Link do repositório: https://github.com/2023M6T4-Inteli/Projeto3
   
 - Grupo 4
-  - Link do repositório: 
+  - Link do repositório: https://github.com/2023M6T4-Inteli/Projeto4
   
 - Grupo 5
-  - Link do repositório: 
+  - Link do repositório: https://github.com/2023M6T4-Inteli/Projeto5
