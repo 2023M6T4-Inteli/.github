@@ -46,3 +46,7 @@ As respostas a serem respondidas com os resultados dos modelos são:
   
 - Grupo 5
   - Link do repositório: https://github.com/2023M6T4-Inteli/Projeto5
+  
+## Imagem no Perfil
+  
+Imagem de <a href="https://br.freepik.com/fotos-gratis/arranjo-de-vista-superior-com-diferentes-sensacoes_12558024.htm#query=an%C3%A1lise%20de%20sentimentos&position=4&from_view=search&track=ais">Freepik</a>
